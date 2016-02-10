@@ -1,0 +1,1 @@
+Defines geometry-related concepts
